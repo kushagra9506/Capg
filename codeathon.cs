@@ -5,6 +5,7 @@ class Product{
 	private char categoryCode;
 	private static int prodCounter = 100;
 
+	//getter and setter method
 	public string ProductCode{
 		get{ return productCode;}
 		set{ productCode = value;}
